@@ -1,0 +1,4 @@
+.idea*
+genetic-algorithm.iml
+out*
+*.class
